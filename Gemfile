@@ -27,6 +27,8 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass'
 
+gem 'devise', '~> 3.1.0.rc2'
+
 
 
 
